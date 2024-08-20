@@ -1,5 +1,5 @@
 ---
-title: Download Prism Launcher for Windows
+title: Ligma
 permalink: /download/
 eleventyNavigation:
   key: <i class="fa fa-windows" aria-hidden="true"></i> Windows
